@@ -5259,7 +5259,7 @@
     "stack-utils" "1.0.2"
     "uuid" "3.3.3"
 
-"gatsby-theme-mdx-deck@^3.0.13":
+"gatsby-theme-mdx-deck@^3.0.10":
   "integrity" "sha512-oeorRdFk3EbWrOMGaXgcFPArvYR7rd4Ioryj14nGg1CqWvSfJMB3vZtcBCWpfLSbIw2j7ZWBFL4GL14xvBPNxw=="
   "resolved" "https://registry.npmjs.org/gatsby-theme-mdx-deck/-/gatsby-theme-mdx-deck-3.0.13.tgz"
   "version" "3.0.13"
@@ -7632,10 +7632,10 @@
   "resolved" "https://registry.npmjs.org/mdurl/-/mdurl-1.0.1.tgz"
   "version" "1.0.1"
 
-"mdx-deck@3.0.10", "mdx-deck@3.0.13":
-  "integrity" "sha512-yKmls4BSEeR2g/kfanPAC+A8diagsQs0BFbGm41vi8UScKkE8LnlZDCypTdkhIcr0B0wU9Ft+fcL19WQABr8hQ=="
-  "resolved" "https://registry.npmjs.org/mdx-deck/-/mdx-deck-3.0.13.tgz"
-  "version" "3.0.13"
+"mdx-deck@3.0.10":
+  "integrity" "sha512-ef6igJmpxVvcY0EyTty+yaNhCtsX3eMlih0oDMohzxyrknCrboHvt2hfzBSMELYaczEp9+5t/7LKZVh4nPt39A=="
+  "resolved" "https://registry.npmjs.org/mdx-deck/-/mdx-deck-3.0.10.tgz"
+  "version" "3.0.10"
   dependencies:
     "@mdx-deck/themes" "^3.0.8"
     "chalk" "^2.4.2"
@@ -7643,7 +7643,7 @@
     "fs-extra" "^8.1.0"
     "gatsby" "^2.13.24"
     "gatsby-plugin-compile-es6-packages" "^2.0.0"
-    "gatsby-theme-mdx-deck" "^3.0.13"
+    "gatsby-theme-mdx-deck" "^3.0.10"
     "initit" "^1.0.0-2"
     "meow" "^5.0.0"
     "react" "^16.8.6"
