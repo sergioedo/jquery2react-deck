@@ -10,5 +10,8 @@
     "code-surfer": "3.1.0",
     "mdx-deck": "^3.0.13"
   },
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "name": "deck"
 }
