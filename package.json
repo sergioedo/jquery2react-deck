@@ -1,14 +1,16 @@
 {
+  "name": "jquery2react-slidev",
+  "type": "module",
   "private": true,
-  "version": "1.0.0",
   "scripts": {
-    "start": "mdx-deck deck.mdx",
-    "build": "mdx-deck build deck.mdx",
-    "test": "echo \"there are no tests\""
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
   },
-  "devDependencies": {
-    "code-surfer": "3.1.0",
-    "mdx-deck": "3.0.10"
-  },
-  "name": "deck"
+  "dependencies": {
+    "@slidev/cli": "^52.18.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.33"
+  }
 }

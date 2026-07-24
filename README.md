@@ -1,23 +1,11 @@
-# MDX Deck + Code Surfer template
+# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-This project was generated with the `npm init code-surfer-deck` command.
+To start the slide show:
 
-## Development
+- `pnpm install`
+- `pnpm run dev`
+- visit <http://localhost:3030>
 
-To run the presentation deck in development mode:
+Edit the [slides.md](./slides.md) to see the changes.
 
-```sh
-npm start
-```
-
-Edit the [`deck.mdx`](deck.mdx) file to get started.
-
-## Exporting
-
-To build the presentation deck:
-
-```sh
-npm run build
-```
-
-For more documentation see [MDX Deck](https://github.com/jxnblk/mdx-deck) and [Code Surfer](https://codesurfer.pomb.us/)
+Learn more about Slidev at the [documentation](https://sli.dev/).
